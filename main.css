@@ -60,3 +60,21 @@ ul a:hover {
     width: 300px;
     margin: 50px;
 }
+
+/*** DOGS ***/
+
+/**** Cats ***/
+
+.cats {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.cats img {
+    width: 300px;
+    height: 200px;
+    margin: 30px;
+    border: 10px solid greenyellow;
+    border-radius: 2em;
+}
