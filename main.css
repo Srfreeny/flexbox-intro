@@ -56,6 +56,10 @@ ul a:hover {
     justify-content: center;
 }
 
+.dogs-style {
+    text-align: center;
+}
+
 .Dogs img{
     width: 300px;
     margin: 50px;
@@ -69,6 +73,10 @@ ul a:hover {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+}
+
+.cats-title {
+    text-align: center;
 }
 
 .cats img {
